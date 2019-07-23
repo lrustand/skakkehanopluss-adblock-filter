@@ -28,7 +28,7 @@ digi.no#?#a:-abp-has(.subscription-banner)
 digi.no##.subscription-reccs
 digi.no##[data-title="EKSKLUSIVT INNHOLD FOR DIGITALE ABONNENTER"]
 digi.no##article.access-subscription
-jarlsbergavis.no#?#article:-abp-has([class*="premium-logo"])
+jarlsbergavis.no#?#a:-abp-has([class*="premium-logo"])
 sb.no##article[data-adppaywall="true"]
 sb.no#?#a:-abp-has([class*="premium-logo"])
 aftenposten.no##.paywall-closed
