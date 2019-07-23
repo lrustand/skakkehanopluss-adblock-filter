@@ -7,11 +7,11 @@ vg.no#?#.article-content:-abp-has([class*="df-img-skin-pluss"])
 vg.no#?#a:-abp-has(div[data-test-tag="plus-content-indicator"])
 
 ta.no##article[data-adppaywall="true"]
-ta.no#?#a:-abp-has(.am-premium-logo)
+ta.no#?#a:-abp-has([class*="premium-logo"])
 ba.no##article[data-adppaywall="true"]
-ba.no#?#a:-abp-has(.am-premium-logo)
+ba.no#?#a:-abp-has([class*="premium-logo"])
 tk.no##article[data-adppaywall="true"]
-tk.no#?#a:-abp-has(.am-premium-logo)
+tk.no#?#a:-abp-has([class*="premium-logo"])
 tb.no#?#a:-abp-has([class*="premium-logo"])
 
 dagbladet.no##article[data-label="pluss"]
@@ -24,11 +24,11 @@ itromso.no##.payed
 dn.no##article[class*="premium"]
 
 gjengangeren.no##article[data-adppaywall="true"]
-gjengangeren.no#?#a:-abp-has(.am-premium-logo)
+gjengangeren.no#?#a:-abp-has([class*="premium-logo"])
 avisa-valdres.no##article[data-adppaywall="true"]
-avisa-valdres.no#?#a:-abp-has(.am-premium-logo)
+avisa-valdres.no#?#a:-abp-has([class*="premium-logo"])
 an.no##article[data-adppaywall="true"]
-an.no#?#a:-abp-has(.am-premium-logo)
+an.no#?#a:-abp-has([class*="premium-logo"])
 
 tu.no#?#article:-abp-has(div[class*="subscription-banner"])
 tu.no#?#.frontpage-feed-grid h3:-abp-contains(Eksklusivt)
