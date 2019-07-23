@@ -1,3 +1,4 @@
+[Adblock Plus 2.0]
 bt.no#?#article:-abp-has(.label--paywall)
 varden.no#?#article:-abp-has(.plus_button)
 vg.no#?#.article-content:-abp-has([class*="df-img-skin-pluss"])
