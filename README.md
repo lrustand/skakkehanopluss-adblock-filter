@@ -5,6 +5,7 @@ Dette er en filterliste til Adblock Plus for å fjerne pluss-artikler fra mange 
 For å bruke denne filterlisten må du ha enten Adblock Plus eller uBlock Origin installert. På grunn av mye bruk av den Adblock Plus-spesifikke selektoren `:-abp-has()` kan jeg ikke garantere at listen fungerer i andre adblockere.
 
 ## Installasjon for Adblock Plus
+ > Blokkering kan være tregt i Adblock Plus og noen opplever at plussartikler blir lastet inn og vist i flere sekunder før de blir fjernet. Hvis du opplever disse problemene anbefaler jeg å bytte til uBlock Origin i stedet.
  1. Klikk på Adblock Plus-ikonet
  2. Trykk på tannhjulet
  3. Velg Advanced
@@ -14,7 +15,7 @@ For å bruke denne filterlisten må du ha enten Adblock Plus eller uBlock Origin
 ## Installasjon for uBlock Origin
  1. Klikk på uBlock Origin-ikonet
  2. Åpne dashboardet
- 3. Velg på Filter lists
+ 3. Velg Filter lists
  4. Trykk Import nederst på siden
  5. Lim inn url-en til filterlisten slik: https://raw.githubusercontent.com/lrustand/skakkehanopluss-adblock-filter/master/skakkehanopluss.txt
 
